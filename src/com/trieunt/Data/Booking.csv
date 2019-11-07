@@ -1,0 +1,5 @@
+id,customerName,gender,birthday,idCard,phone,email,typeCustomer,address,id,serviceName,usedArea,costRent,maximumNumberPeople,typeRent
+ce186814511a45098007ffc74c6c8d32,Dinh Thi Huyen My,Female,09/02/1992,282718277,0977221727,myhtd@gmail.com,Diamond,Ha Noi,28d58eb7f97945ccae2138699e193ade,Villa,200.0,1500.0,4,
+d4abef715f5b4fed9de9476dfcaa81fe,Nguyen Tuan Trieu,Male,12/22/1995,123456789,0985655914,trieunt@gmail.com,Vip,Quang Ngai,28d58eb7f97945ccae2138699e193ade,Villa,200.0,1500.0,4,
+2d0875a59fec4c12a6afc468dde92697,Tran Van Khanh,Male,18/05/1997,727363722,0982727362,khanhvt@gmail.com,Platium,Da Nang,6d67901d5aef4020b84bc29bd373c234,Villa,32.0,111.0,4,
+d4abef715f5b4fed9de9476dfcaa81fe,Nguyen Tuan Trieu,Male,12/22/1995,123456789,0985655914,trieunt@gmail.com,Vip,Quang Ngai,962f17d12754408da19e05a207ffe705,House,34.0,2000.0,6,Day

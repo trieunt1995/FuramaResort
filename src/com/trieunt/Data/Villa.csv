@@ -1,0 +1,5 @@
+id,serviceName,usedArea,costRent,maximumNumberPeople,typeRent,roomStandard,otherDescriptionUtility,numberFloors,poolArea
+28d58eb7f97945ccae2138699e193ade,Villa,200.0,1500.0,4,Day,VIP,No,20,20.0
+0208f5d43430414b829a4ce59e17e47a,Villa,4.0,2000.0,5,Month,Villa Vip,Free all service,4,20.0
+c4325b31e204496cbf98d01e7c8d81bb,Villa,3000.0,5000.0,8,Day,VIP Premium,Full free service,4,30.0
+6d67901d5aef4020b84bc29bd373c234,Villa,32.0,111.0,4,Day,Vip,No,3,22.0
